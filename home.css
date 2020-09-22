@@ -3,6 +3,6 @@ body {
     background-color: rebeccapurple ;
 }
 
-#home-header ul li {
+header#home-header ul li {
     vertical-align: baseline;
 }
