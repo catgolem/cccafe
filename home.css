@@ -1,8 +1,8 @@
 @charset "UTF-8";
-
 body {
-    background-color: #fffeee;
+    background-color: rebeccapurple ;
 }
+
 #home-header ul li {
     vertical-align: baseline;
 }
