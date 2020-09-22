@@ -1,8 +1,16 @@
 @charset "UTF-8";
 body {
-    background-color: rebeccapurple ;
+    background-color: burlywood;
+}
+
+header#home-header ul {
+    list-style-type: none;
+}
+
+header#home-header ul li{
+    display: inline;
 }
 
 header#home-header ul li {
-    vertical-align: baseline;
+    vertical-align: baseline ;
 }
