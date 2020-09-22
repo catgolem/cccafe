@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body {
+    background-color: #fffeee;
+}
+#home-header ul li {
+    vertical-align: baseline;
+}
